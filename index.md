@@ -10,7 +10,7 @@ I like to think that I suck at software and I suck less at hardware.
 
 ...tbd
 ##### links:
-[random stuffs] (./random.html)
+[random stuffs](./random.html)
 
-####see ya later!
+#### see ya later!
 Thanks for visiting!
